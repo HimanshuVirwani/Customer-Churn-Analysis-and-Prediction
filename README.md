@@ -38,3 +38,11 @@ This project analyzes customer behavior and churn across two datasets: `ecommerc
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/your-repository.git
+
+2. Install required libraries:
+   ```bash
+   pip install pandas seaborn matplotlib scikit-learn xgboost tabulate
+
+## Datasets
+Ecommerce Customer Data: ecommerce_customer_data_custom_ratios.csv
+Internet Service Provider Churn Data: internet_service_churn.csv
