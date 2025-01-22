@@ -44,5 +44,5 @@ This project analyzes customer behavior and churn across two datasets: `ecommerc
    pip install pandas seaborn matplotlib scikit-learn xgboost tabulate
 
 ## Datasets
-Ecommerce Customer Data: ecommerce_customer_data_custom_ratios.csv
-Internet Service Provider Churn Data: internet_service_churn.csv
+- Ecommerce Customer Data: `ecommerce_customer_data_custom_ratios.csv`
+- Internet Service Provider Churn Data: `internet_service_churn.csv`
