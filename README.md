@@ -46,3 +46,20 @@ This project analyzes customer behavior and churn across two datasets: `ecommerc
 ## Datasets
 - Ecommerce Customer Data: `ecommerce_customer_data_custom_ratios.csv`
 - Internet Service Provider Churn Data: `internet_service_churn.csv`
+
+## How to run the project
+- Place the datasets in the project directory.
+- Run the python scrypt:
+  ```bash
+  python Customer Behaviour and Churn Analysis.ipyb
+
+## Visualisations
+- Churn distribution by dataset
+- Churn distribution by gender
+- Product category distribution
+
+## Results
+- Results of Machine Learning algorithms can be seen in the Jpyter notebook of this project.
+
+
+
